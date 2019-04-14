@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eenuzilehu.virtualtravelog.net/sitemap.xml
